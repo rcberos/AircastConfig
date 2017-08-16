@@ -1,0 +1,7 @@
+{
+	"RpiID": 15,
+	"RpiServer": "http://54.254.248.115/",
+	"CheckFile": "/rpiCheckFiles2",
+	"UpdateFile": "/rpiUpdateFiles2",
+	"Timeout": 10000
+}
